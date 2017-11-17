@@ -18,7 +18,7 @@
 #include <shogun/io/SGIO.h>
 #include <shogun/lib/Signal.h>
 
-#include <rxcpp/rx-lite.hpp>
+#include <shogun/rxcpp/rx-lite.hpp>
 
 #include <shogun/mathematics/Math.h>
 #include <shogun/mathematics/Random.h>

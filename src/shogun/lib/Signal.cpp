@@ -12,7 +12,7 @@
 #include <csignal>
 #include <stdlib.h>
 
-#include <rxcpp/rx-lite.hpp>
+#include <shogun/rxcpp/rx-lite.hpp>
 #include <shogun/io/SGIO.h>
 #include <shogun/lib/Signal.h>
 

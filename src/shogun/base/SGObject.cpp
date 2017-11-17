@@ -29,8 +29,8 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-#include <rxcpp/operators/rx-filter.hpp>
-#include <rxcpp/rx-lite.hpp>
+#include <shogun/rxcpp/operators/rx-filter.hpp>
+#include <shogun/rxcpp/rx-lite.hpp>
 
 #include <unordered_map>
 

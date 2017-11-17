@@ -21,13 +21,13 @@
 #include <shogun/lib/Cache.h>
 #include <shogun/io/File.h>
 #include <shogun/features/DotFeatures.h>
-#include <shogun/features/StringFeatures.h>
+// removed StringFeatures.h include
 #include <shogun/lib/DataType.h>
 
 #include <shogun/lib/SGMatrix.h>
 
 namespace shogun {
-template<class ST> class CStringFeatures;
+//template<class ST> class CStringFeatures;
 template<class ST> class CDenseFeatures;
 template<class ST> class SGMatrix;
 class CDotFeatures;
